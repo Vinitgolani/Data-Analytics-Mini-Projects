@@ -86,9 +86,9 @@ These skills are vital for excelling as a **Data Analyst** and are highly applic
 
 I am always open to discussions, collaborations, and networking. Feel free to reach out via:
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/vinitgolani)
-- **Email**: [your.email@example.com](mailto:vinit.b.golani@gmail.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/Vinitgolani)
+- **LinkedIn**: [Vinit Golani](https://www.linkedin.com/in/vinitgolani)
+- **Email**: [vinit.b.golani@gmail.com](mailto:vinit.b.golani@gmail.com)
+- **GitHub**: [Vinitgolani](https://github.com/Vinitgolani)
 
 ---
 
